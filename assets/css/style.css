@@ -1,0 +1,12 @@
+
+#resumen-bottom .card .card-body {
+    height: 222px;
+}
+
+#overflow {
+    height: 200px;
+}
+
+table {
+    table-layout: fixed;
+}
